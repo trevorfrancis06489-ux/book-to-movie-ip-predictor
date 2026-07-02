@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+sentence-transformers
+psycopg2-binary  # For PostgreSQL
+neo4j             # For Neo4j
+python-dotenv     # For loading .env files
+jupyter
