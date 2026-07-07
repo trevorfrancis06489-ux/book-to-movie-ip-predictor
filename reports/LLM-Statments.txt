@@ -1,0 +1,6 @@
+LLM Usage:
+
+I used LLM's mainly for the database creation to assign my schema in the database as assigning all of the datattypes manually.
+I also ran into a dataloading error which it resolved by I belive using a command that is newer in the package as i was calling an out of date command. 
+
+Other than that LLM's took a consulting role i hearing feedback and recomending datasets and packages that may aid in the task. 
