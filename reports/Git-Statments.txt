@@ -1,0 +1,8 @@
+Git commands used:
+I really only used the commands 
+clone
+pull
+add
+push
+
+these are the basic commands so far to intilize and add files to the folder.1211112
