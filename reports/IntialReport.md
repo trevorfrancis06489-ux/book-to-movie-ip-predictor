@@ -7,6 +7,7 @@ Database
 
 SQLite for portability and zero configuration in the Jupyter environment without requiring server permissions. SQL is also the language im most comfortable in for database manipulation. 
 
+The Python script creates a SQLite database with three tables: movies, books, and book_movie_links. It reads the TMDB movie CSV and Goodreads book CSV from the current directory, cleans the data by selecting relevant columns and handling missing values, then inserts the records into their respective tables. The final verification queries confirm successful loading and display sample adapted books for quick validation.
 
 Hypothesis
 
